@@ -1,6 +1,6 @@
 {
-  "name": "clearvision",
-  "description": "Highly customizable theme for BetterDiscord.",
+  "name": "Esdeath",
+  "description": "A theme made by Delta.",
   "private": true,
   "scripts": {
     "build": "npm run clean && npm run build.sass",
@@ -14,15 +14,8 @@
     "type": "git",
     "url": "https://github.com/ClearVision/ClearVision-v6.git"
   },
-  "author": "Zerthox",
-  "contributors": [
-    "Leozard",
-    "Mentalscars",
-    "nihaals",
-    "NyxIsBad",
-    "OmgDani",
-    "untuned",
-    "xcruxiex"
+  "author": "therealdelta",
+
   ],
   "license": "Apache-2.0",
   "bugs": {
